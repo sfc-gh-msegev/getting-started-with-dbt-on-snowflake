@@ -3,3 +3,4 @@ packages:
     version: 1.3.3
   - package: Snowflake-Labs/dbt_semantic_view
     version: 1.0.5
+sha1_hash: e5106a69354e6d4158748ce888d7e980b3caad89
